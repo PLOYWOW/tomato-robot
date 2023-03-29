@@ -1,0 +1,8 @@
+prefix=/home/hayashi/worksp/tomato_ws/devel/.private/dynamixel_workbench_msgs
+
+Name: dynamixel_workbench_msgs
+Description: Description of dynamixel_workbench_msgs
+Version: 2.0.2
+Cflags: -I/home/hayashi/worksp/tomato_ws/devel/.private/dynamixel_workbench_msgs/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime

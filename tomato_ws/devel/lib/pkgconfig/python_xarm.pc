@@ -1,0 +1,8 @@
+prefix=/home/hayashi/worksp/tomato_ws/devel/.private/python_xarm
+
+Name: python_xarm
+Description: Description of python_xarm
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

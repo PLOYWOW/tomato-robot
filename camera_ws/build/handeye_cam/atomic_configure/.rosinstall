@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hayashi/worksp/camera_ws/devel/.private/handeye_cam/setup.sh

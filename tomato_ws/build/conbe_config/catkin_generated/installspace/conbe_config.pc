@@ -1,0 +1,8 @@
+prefix=/home/hayashi/worksp/tomato_ws/install
+
+Name: conbe_config
+Description: Description of conbe_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,15 @@
+(cl:defpackage custom_msgs-srv
+  (:use )
+  (:export
+   "ADDTWOINTS"
+   "<ADDTWOINTS-REQUEST>"
+   "ADDTWOINTS-REQUEST"
+   "<ADDTWOINTS-RESPONSE>"
+   "ADDTWOINTS-RESPONSE"
+   "GETOBJECT"
+   "<GETOBJECT-REQUEST>"
+   "GETOBJECT-REQUEST"
+   "<GETOBJECT-RESPONSE>"
+   "GETOBJECT-RESPONSE"
+  ))
+

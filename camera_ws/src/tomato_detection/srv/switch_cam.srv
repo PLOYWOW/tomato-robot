@@ -1,0 +1,3 @@
+bool req_status
+---
+uint8 data

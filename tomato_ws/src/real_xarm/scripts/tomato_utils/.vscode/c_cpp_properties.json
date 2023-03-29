@@ -1,0 +1,49 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/hayashi/worksp/relay_ws/devel/include/**",
+        "/home/hayashi/worksp/ar_ws/devel/include/**",
+        "/home/hayashi/worksp/tomato_ws/devel/include/**",
+        "/home/hayashi/worksp/camera_ws/devel/include/**",
+        "/home/hayashi/worksp/catkin_ws/devel/include/**",
+        "/home/hayashi/worksp/xarm_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/hayashi/worksp/azure_ws/src/Azure_Kinect_ROS_Driver/include/**",
+        "/home/hayashi/worksp/azure_ws/src/azure_marker/include/**",
+        "/home/hayashi/worksp/tomato_ws/src/DynamixelSDK/ros/dynamixel_sdk/include/**",
+        "/home/hayashi/worksp/tomato_ws/src/dynamixel-workbench/dynamixel_workbench_controllers/include/**",
+        "/home/hayashi/worksp/tomato_ws/src/dynamixel-workbench/dynamixel_workbench_operators/include/**",
+        "/home/hayashi/worksp/tomato_ws/src/dynamixel-workbench/dynamixel_workbench_toolbox/include/**",
+        "/home/hayashi/worksp/ar_ws/src/image_handler/include/**",
+        "/home/hayashi/worksp/camera_ws/src/manual_calibration/include/**",
+        "/home/hayashi/worksp/ar_ws/src/spot_mini_mini/mini_ros/include/**",
+        "/home/hayashi/worksp/xarm_ws/src/mongodb_store/mongodb_store/include/**",
+        "/home/hayashi/worksp/ar_ws/src/pbl_ros/include/**",
+        "/home/hayashi/worksp/tomato_ws/src/real_xarm/include/**",
+        "/home/hayashi/worksp/camera_ws/src/realsense-ros/realsense2_camera/include/**",
+        "/home/hayashi/worksp/xarm_ws/src/roboticsgroup_gazebo_plugins/include/**",
+        "/home/hayashi/worksp/tomato_ws/src/sim_xarm/include/**",
+        "/home/hayashi/worksp/camera_ws/src/tomato_detection/include/**",
+        "/home/hayashi/worksp/relay_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/hayashi/worksp/relay_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/hayashi/worksp/relay_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/home/hayashi/worksp/xarm_ws/src/warehouse_ros/include/**",
+        "/home/hayashi/worksp/xarm_ws/src/warehouse_ros_mongo/include/**",
+        "/home/hayashi/worksp/xarm_ws/src/xarm_ros/xarm_api/include/**",
+        "/home/hayashi/worksp/xarm_ws/src/xarm_ros/xarm_controller/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

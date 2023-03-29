@@ -1,0 +1,15 @@
+(cl:defpackage tomato_detection-srv
+  (:use )
+  (:export
+   "SELECTTOMATO"
+   "<SELECTTOMATO-REQUEST>"
+   "SELECTTOMATO-REQUEST"
+   "<SELECTTOMATO-RESPONSE>"
+   "SELECTTOMATO-RESPONSE"
+   "SWITCH_CAM"
+   "<SWITCH_CAM-REQUEST>"
+   "SWITCH_CAM-REQUEST"
+   "<SWITCH_CAM-RESPONSE>"
+   "SWITCH_CAM-RESPONSE"
+  ))
+

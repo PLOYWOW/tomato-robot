@@ -1,0 +1,8 @@
+prefix=/home/hayashi/worksp/camera_ws/devel/.private/manual_calibration
+
+Name: manual_calibration
+Description: Description of manual_calibration
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

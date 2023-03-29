@@ -1,0 +1,8 @@
+prefix=/home/hayashi/worksp/tomato_ws/install
+
+Name: simple_detection
+Description: Description of simple_detection
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

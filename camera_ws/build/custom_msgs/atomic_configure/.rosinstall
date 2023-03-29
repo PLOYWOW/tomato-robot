@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hayashi/worksp/camera_ws/devel/.private/custom_msgs/setup.sh

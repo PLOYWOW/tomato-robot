@@ -1,0 +1,12 @@
+[31m[1mCMake Error[0m at /opt/ros/noetic/share/catkin/cmake/assert.cmake:20 (message):
+
+
+  Assertion failed: file
+  '/home/hayashi/worksp/camera_ws/src/tomato_detection/srv/switch_cam' does
+  not exist.  Message: service file not found
+
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/noetic/share/genmsg/cmake/genmsg-extras.cmake:170 (assert_file_exists)
+  CMakeLists.txt:57 (add_service_files)
+
+

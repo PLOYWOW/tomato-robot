@@ -1,0 +1,6 @@
+<launch>
+        <include file="$(find realsense2_camera)/launch/rs_rgbd.launch" />
+        <node name="rsMarker" pkg="azure_marker" type="realsenseMarker.py"/>
+        <include file="$(find azure_kinect_ros_driver)/launch/calibrateDriver.launch" />
+        <node name="azureMarker" pkg="azure_marker" type="azureMarker.py" output="screen"/>
+</launch>

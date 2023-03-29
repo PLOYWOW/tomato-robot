@@ -1,0 +1,11 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/hayashi/worksp/relay_ws/devel/lib/python3/dist-packages",
+        "/home/hayashi/worksp/ar_ws/devel/lib/python3/dist-packages",
+        "/home/hayashi/worksp/tomato_ws/devel/lib/python3/dist-packages",
+        "/home/hayashi/worksp/camera_ws/devel/lib/python3/dist-packages",
+        "/home/hayashi/worksp/catkin_ws/devel/lib/python3/dist-packages",
+        "/home/hayashi/worksp/xarm_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

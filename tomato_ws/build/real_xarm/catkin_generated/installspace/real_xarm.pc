@@ -1,0 +1,8 @@
+prefix=/home/hayashi/worksp/tomato_ws/install
+
+Name: real_xarm
+Description: Description of real_xarm
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
