@@ -1,0 +1,5 @@
+azure_marker
+/home/hayashi/worksp/azure_ws/devel/.private/azure_marker/cmake.lock /home/hayashi/worksp/azure_ws/devel/./cmake.lock
+/home/hayashi/worksp/azure_ws/devel/.private/azure_marker/share/azure_marker/cmake/azure_markerConfig-version.cmake /home/hayashi/worksp/azure_ws/devel/share/azure_marker/cmake/azure_markerConfig-version.cmake
+/home/hayashi/worksp/azure_ws/devel/.private/azure_marker/share/azure_marker/cmake/azure_markerConfig.cmake /home/hayashi/worksp/azure_ws/devel/share/azure_marker/cmake/azure_markerConfig.cmake
+/home/hayashi/worksp/azure_ws/devel/.private/azure_marker/lib/pkgconfig/azure_marker.pc /home/hayashi/worksp/azure_ws/devel/lib/pkgconfig/azure_marker.pc

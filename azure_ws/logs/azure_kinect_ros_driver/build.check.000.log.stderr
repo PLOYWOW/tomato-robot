@@ -1,0 +1,12 @@
+Finding K4A SDK binaries
+[31m[1mCMake Error[0m at /home/hayashi/worksp/azure_ws/src/Azure_Kinect_ROS_Driver/cmake/Findk4a.cmake:22 (message):
+  Error: Azure Kinect SDK Version numbers contain exactly 3 components
+  (major.minor.rev).  Requested number of components: 2
+[36mCall Stack (most recent call first):[0m
+  /usr/share/cmake-3.16/Modules/CMakeFindDependencyMacro.cmake:47 (find_package)
+  /usr/lib/cmake/k4abt/k4abtConfig.cmake:3 (find_dependency)
+  cmake/Findk4abt.cmake:35 (find_package)
+  CMakeLists.txt:95 (find_package)
+
+
+make: *** [Makefile:1207: cmake_check_build_system] Error 1

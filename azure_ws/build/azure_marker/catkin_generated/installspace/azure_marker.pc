@@ -1,0 +1,8 @@
+prefix=/home/hayashi/worksp/azure_ws/install
+
+Name: azure_marker
+Description: Description of azure_marker
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,33 @@
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/hayashi/worksp/azure_ws/devel/.private/azure_kinect_ros_driver
+[36m--[0m Using CMAKE_PREFIX_PATH: /home/hayashi/worksp/ar_ws/devel;/home/hayashi/worksp/azure_ws/devel;/home/hayashi/worksp/tomato_ws/devel;/home/hayashi/worksp/camera_ws/devel;/home/hayashi/worksp/catkin_ws/devel;/home/hayashi/worksp/xarm_ws/devel;/opt/ros/noetic
+[36m--[0m This workspace overlays: /home/hayashi/worksp/ar_ws/devel;/home/hayashi/worksp/azure_ws/devel;/home/hayashi/worksp/tomato_ws/devel;/home/hayashi/worksp/camera_ws/devel;/home/hayashi/worksp/catkin_ws/devel;/home/hayashi/worksp/xarm_ws/devel;/opt/ros/noetic
+[36m--[0m Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3")
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/bin/python3
+[36m--[0m Using Debian Python package layout
+[36m--[0m Using empy: /usr/lib/python3/dist-packages/em.py
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /home/hayashi/worksp/azure_ws/build/azure_kinect_ros_driver/test_results
+[36m--[0m Forcing gtest/gmock from source, though one was otherwise available.
+[36m--[0m Found gtest sources under '/usr/src/googletest': gtests will be built
+[36m--[0m Found gmock sources under '/usr/src/googletest': gmock will be built
+[36m--[0m Found PythonInterp: /usr/bin/python3 (found version "3.8.10")
+[36m--[0m Using Python nosetests: /usr/bin/nosetests3
+[36m--[0m catkin 0.8.10
+[36m--[0m BUILD_SHARED_LIBS is on
+[36m--[0m Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+Finding K4A SDK binaries
+[31m[1mCMake Error[0m at /home/hayashi/worksp/azure_ws/src/Azure_Kinect_ROS_Driver/cmake/Findk4a.cmake:22 (message):
+  Error: Azure Kinect SDK Version numbers contain exactly 3 components
+  (major.minor.rev).  Requested number of components: 2
+[36mCall Stack (most recent call first):[0m
+  /usr/share/cmake-3.16/Modules/CMakeFindDependencyMacro.cmake:47 (find_package)
+  /usr/lib/cmake/k4abt/k4abtConfig.cmake:3 (find_dependency)
+  cmake/Findk4abt.cmake:35 (find_package)
+  CMakeLists.txt:95 (find_package)
+
+
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/hayashi/worksp/azure_ws/build/azure_kinect_ros_driver/CMakeFiles/CMakeOutput.log".
+See also "/home/hayashi/worksp/azure_ws/build/azure_kinect_ros_driver/CMakeFiles/CMakeError.log".
+make: *** [Makefile:1207: cmake_check_build_system] Error 1

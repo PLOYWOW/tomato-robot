@@ -1,0 +1,5 @@
+Symlinking /home/hayashi/worksp/azure_ws/devel/share/azure_kinect_ros_driver/cmake/azure_kinect_ros_driverConfig-version.cmake
+Symlinking /home/hayashi/worksp/azure_ws/devel/share/azure_kinect_ros_driver/cmake/azure_kinect_ros_driverConfig.cmake
+Symlinking /home/hayashi/worksp/azure_ws/devel/lib/libazure_kinect_ros_driver_nodelet.so
+Symlinking /home/hayashi/worksp/azure_ws/devel/lib/pkgconfig/azure_kinect_ros_driver.pc
+Symlinking /home/hayashi/worksp/azure_ws/devel/lib/azure_kinect_ros_driver/node

@@ -1,0 +1,4 @@
+<launch>
+  <node name="markerTF" pkg="azure_marker" type="markerBoardCast.py" output="screen"/>
+  <node type="rviz" name="rviz" pkg="rviz" args="-d $(find azure_marker)/config/marker.rviz" />
+</launch>

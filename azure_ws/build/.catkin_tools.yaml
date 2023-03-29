@@ -1,0 +1,6 @@
+devel_space: /home/hayashi/worksp/azure_ws/devel
+install: false
+install_space: /home/hayashi/worksp/azure_ws/install
+profile: default
+source_space: /home/hayashi/worksp/azure_ws/src
+workspace: /home/hayashi/worksp/azure_ws
