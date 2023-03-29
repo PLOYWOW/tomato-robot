@@ -1,0 +1,11 @@
+joint:
+  names: [mouth]
+motion:
+  names: [open,close]
+  open:
+    step: [-1.2363885641098022]  # radian
+    time_from_start: 2.0  # sec
+  close:
+    step: [-0.5476311445236206]
+    time_from_start: 2.0
+
